@@ -1,6 +1,6 @@
 # Snakemake environment setup
 
-Snakemake is a pipeline manager for bioinformatic analyses. It is used by maxsonBraunLab pipelines. This repo contains instructions for setting up a Snakemake environment via Conda and a command line interface.
+Snakemake is a pipeline manager for bioinformatic analyses. It is used by maxsonBraunLab pipelines. This repo contains instructions for setting up a Linux-compatible Snakemake environment via Conda and a command line interface.
 
 To create a Snakemake environment: 
 
